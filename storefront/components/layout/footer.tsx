@@ -13,6 +13,7 @@ const footerLinks = {
   help: [
     { label: 'FAQ', href: '/faq' },
     { label: 'Shipping & Returns', href: '/shipping' },
+    { label: 'Payments', href: '/payments' },
     { label: 'Contact Us', href: '/contact' },
   ],
 }
